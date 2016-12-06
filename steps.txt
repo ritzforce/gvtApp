@@ -1,0 +1,1 @@
+1. ionic start gvt sidemenu --v2
