@@ -1,1 +1,4 @@
 1. ionic start gvt sidemenu --v2
+2. ionic serve
+3. ionic platform add android
+4. ionic build android
